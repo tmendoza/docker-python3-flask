@@ -20,7 +20,6 @@ This repository contains a simple Flask application that demonstrates a "Hello, 
 ### Prerequisites
 
 - [Docker](https://www.docker.com/) installed on your system.
-- Python 3.10 or higher (if running without Docker).
 
 ---
 
